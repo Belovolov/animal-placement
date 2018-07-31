@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnimalPlacement.Animal">
+    <Position X="2" Y="6.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIABAAAAAQEAAAQAAACAAAEAAAAAAAAAAYAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPlacement.AnimalsController">
+    <Position X="7.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAIAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>AnimalsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPlacement.AnimalsModel">
+    <Position X="4.75" Y="6.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAEAAAUAAAAAAAACAAAAAAAAAGAAAAkAA=</HashCode>
+      <FileName>AnimalsModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPlacement.AnimalView" Collapsed="true">
+    <Position X="20.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AnimalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPlacement.Cat">
+    <Position X="2" Y="10.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAIAAAAAAEAAAAAQAABAAABAAAAAAAAAAAACA=</HashCode>
+      <FileName>Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPlacement.Dog">
+    <Position X="4.5" Y="10.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAEAAAAAQAAAAAABAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPlacement.Human">
+    <Position X="7" Y="10.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAACEAAAAAQAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Human.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPlacement.MainForm" Collapsed="true">
+    <Position X="22.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAAAAAAEACAEAIiAAAEAAAACAAAAAAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPlacement.Program" Collapsed="true">
+    <Position X="17.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPlacement.TextView" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>DAwgwAAGBDAcADAwKAGRAACiA10EkIEAESAADoIUEQY=</HashCode>
+      <FileName>TextView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AnimalPlacement.GraphicView" BaseTypeListCollapsed="true">
+    <Position X="2" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>DJggwgAmBDAcBBBqKAGRAASrY8UEkIAIESAInIIYEAI=</HashCode>
+      <FileName>GraphicView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AnimalPlacement.ReadOnlyView" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>DBAAAAAgACAIAACAAACAAAAGACAAAIAAECAIAAIAAAA=</HashCode>
+      <FileName>ReadOnlyView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AnimalPlacement.Properties.Resources" Collapsed="true">
+    <Position X="19" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAABAAAkAAAAAAABBEAAACwAIAAAAAIAAgAAQAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPlacement.Properties.Settings" Collapsed="true">
+    <Position X="20.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AnimalPlacement.IAnimalView" Collapsed="true">
+    <Position X="22.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>AnimalsController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="AnimalPlacement.Gender" Collapsed="true">
+    <Position X="21.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AnimalPlacement.Breed" Collapsed="true">
+    <Position X="17.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AnimalPlacement.Suit" Collapsed="true">
+    <Position X="23" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AnimalPlacement.FilterType" Collapsed="true">
+    <Position X="19.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAIAAAAQAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <anyType xsi:type="Human">
+    <X>289</X>
+    <Y>66</Y>
+    <Weight>70</Weight>
+    <Gender>Male</Gender>
+  </anyType>
+  <anyType xsi:type="Human">
+    <X>53</X>
+    <Y>190</Y>
+    <Weight>70</Weight>
+    <Gender>Female</Gender>
+  </anyType>
+  <anyType xsi:type="Cat">
+    <X>378</X>
+    <Y>289</Y>
+    <Weight>5</Weight>
+    <Suit>Black</Suit>
+  </anyType>
+</ArrayOfAnyType>

@@ -1,0 +1,52 @@
+c:\users\roman\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.MainForm.resources
+c:\users\roman\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.Properties.Resources.resources
+c:\users\roman\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.csproj.GenerateResource.Cache
+c:\users\roman\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.csproj.CoreCompileInputs.cache
+C:\Users\Rama\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.MainForm.resources
+C:\Users\Rama\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.Properties.Resources.resources
+C:\Users\Rama\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.csproj.GenerateResource.cache
+C:\Users\Rama\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.csproj.CoreCompileInputs.cache
+C:\Users\Rama\source\repos\AnimalPlacement\AnimalPlacement\bin\Debug\AnimalPlacement.exe.config
+C:\Users\Rama\source\repos\AnimalPlacement\AnimalPlacement\bin\Debug\AnimalPlacement.exe
+C:\Users\Rama\source\repos\AnimalPlacement\AnimalPlacement\bin\Debug\AnimalPlacement.pdb
+C:\Users\Rama\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.exe
+C:\Users\Rama\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.pdb
+C:\Users\Roman\source\repos\AnimalPlacement\AnimalPlacement\bin\Debug\AnimalPlacement.exe.config
+C:\Users\Roman\source\repos\AnimalPlacement\AnimalPlacement\bin\Debug\AnimalPlacement.exe
+C:\Users\Roman\source\repos\AnimalPlacement\AnimalPlacement\bin\Debug\AnimalPlacement.pdb
+C:\Users\Roman\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.ViewForm1.resources
+C:\Users\Roman\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.exe
+C:\Users\Roman\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.pdb
+C:\Users\Roman\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.ViewForm2.resources
+C:\Users\Roman\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.ViewForm3.resources
+C:\Users\Roman\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.csprojResolveAssemblyReference.cache
+C:\Users\belovr01\Downloads\AnimalPlacement\AnimalPlacement\AnimalPlacement\bin\Debug\AnimalPlacement.exe.config
+C:\Users\belovr01\Downloads\AnimalPlacement\AnimalPlacement\AnimalPlacement\bin\Debug\AnimalPlacement.exe
+C:\Users\belovr01\Downloads\AnimalPlacement\AnimalPlacement\AnimalPlacement\bin\Debug\AnimalPlacement.pdb
+C:\Users\belovr01\Downloads\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.csprojResolveAssemblyReference.cache
+C:\Users\belovr01\Downloads\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.MainForm.resources
+C:\Users\belovr01\Downloads\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.Properties.Resources.resources
+C:\Users\belovr01\Downloads\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.ViewForm2.resources
+C:\Users\belovr01\Downloads\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.ViewForm1.resources
+C:\Users\belovr01\Downloads\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.ViewForm3.resources
+C:\Users\belovr01\Downloads\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.csproj.GenerateResource.Cache
+C:\Users\belovr01\Downloads\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.csproj.CoreCompileInputs.cache
+C:\Users\belovr01\Downloads\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.exe
+C:\Users\belovr01\Downloads\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.pdb
+C:\Users\Rama\source\repos\AnimalPlacement (2)\AnimalPlacement\AnimalPlacement\AnimalPlacement\bin\Debug\AnimalPlacement.exe.config
+C:\Users\Rama\source\repos\AnimalPlacement (2)\AnimalPlacement\AnimalPlacement\AnimalPlacement\bin\Debug\AnimalPlacement.exe
+C:\Users\Rama\source\repos\AnimalPlacement (2)\AnimalPlacement\AnimalPlacement\AnimalPlacement\bin\Debug\AnimalPlacement.pdb
+C:\Users\Rama\source\repos\AnimalPlacement (2)\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.csprojAssemblyReference.cache
+C:\Users\Rama\source\repos\AnimalPlacement (2)\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.MainForm.resources
+C:\Users\Rama\source\repos\AnimalPlacement (2)\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.Properties.Resources.resources
+C:\Users\Rama\source\repos\AnimalPlacement (2)\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.ViewForm2.resources
+C:\Users\Rama\source\repos\AnimalPlacement (2)\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.ViewForm1.resources
+C:\Users\Rama\source\repos\AnimalPlacement (2)\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.ViewForm3.resources
+C:\Users\Rama\source\repos\AnimalPlacement (2)\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.csproj.GenerateResource.cache
+C:\Users\Rama\source\repos\AnimalPlacement (2)\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.csproj.CoreCompileInputs.cache
+C:\Users\Rama\source\repos\AnimalPlacement (2)\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.exe
+C:\Users\Rama\source\repos\AnimalPlacement (2)\AnimalPlacement\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.pdb
+C:\Users\Rama\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.csprojAssemblyReference.cache
+C:\Users\Rama\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.GraphicView.resources
+C:\Users\Rama\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.TextView.resources
+C:\Users\Rama\source\repos\AnimalPlacement\AnimalPlacement\obj\Debug\AnimalPlacement.ReadOnlyView.resources
